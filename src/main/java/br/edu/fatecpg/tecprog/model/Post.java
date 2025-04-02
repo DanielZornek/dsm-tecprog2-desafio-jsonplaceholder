@@ -40,7 +40,7 @@ public class Post {
 
     @Override
     public String toString() {
-        return "\nPost" +
+        return "Post" +
                 "\nuserId: " + this.userId +
                 "\nid: " + this.id +
                 "\ntitle: " + this.title +
